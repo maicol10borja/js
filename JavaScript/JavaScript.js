@@ -9,7 +9,7 @@ var $nombre
 var _nombre
 var nombre1
 var nombre_estudiante
-Como no se puede escribir una variable
+Comó no se puede escribir una variable
 var 8nombre
 Tampoco de puede utilizar palabras reservadas de JavaScript
 var if, while, case, for
